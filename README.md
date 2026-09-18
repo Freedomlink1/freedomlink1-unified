@@ -1,3 +1,7 @@
+![Status](https://img.shields.io/badge/unified-active-green)
+![Manifests](https://img.shields.io/badge/manifests-validated-blue)
+![Lineage](https://img.shields.io/badge/lineage-epoch_5-purple)
+
 # Freedomlink1 Unified Manifest Repo
 
 This repository provides the integration layer between:
