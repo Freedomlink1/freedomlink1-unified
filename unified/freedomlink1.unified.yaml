@@ -1,0 +1,15 @@
+unified_manifest: freedomlink1
+version: 1.0.0
+generated_at: 2026-09-17T21:58:00-05:00
+
+protocol_repo: https://github.com/Freedomlink1/freedomlink1-protocol
+governance_repo: https://github.com/Freedomlink1/freedomlink1-governance
+
+rootstone_hardware: rootstone.bindings.json
+pptf_institutional_layer: pptf.bindings.json
+
+epoch_bindings: epoch.bindings.json
+sovereign_bindings: sovereign.bindings.json
+deployment_bindings: deployment.bindings.json
+
+multi_chain_manifest: multi_chain.map.json

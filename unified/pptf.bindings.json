@@ -1,0 +1,7 @@
+{
+  "pptf": {
+    "institutional_layer": "PPTF",
+    "documents": "freedomlink1-governance/docs/pptf/",
+    "protocol_binding": "freedomlink1-protocol/contracts/pptf/"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "epoch_bindings": {
+    "epoch_4": {
+      "merkle_root": "c031325cb119cdaf5915442e13a1f13c0db002936923fe7382a34bb48f190646",
+      "seal": "freedomlink1-governance/lineage/seals/epoch_4_seal.json",
+      "contracts": "freedomlink1-protocol/contracts/",
+      "deployment_scripts": "freedomlink1-protocol/deploy/"
+    },
+    "epoch_5": {
+      "anchor": "freedomlink1-governance/lineage/anchors/epoch_5_anchor.json",
+      "ledger": "freedomlink1-governance/lineage/ledger/epoch_5.json",
+      "manifest": "freedomlink1-governance/governance/epoch/epoch_5.manifest"
+    }
+  }
+}

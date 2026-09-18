@@ -1,0 +1,13 @@
+{
+  "multi_chain": {
+    "chains": [
+      "ethereum",
+      "polygon",
+      "arbitrum",
+      "optimism",
+      "base",
+      "solana"
+    ],
+    "manifest": "freedomlink1-protocol/manifest/multi_chain.json"
+  }
+}

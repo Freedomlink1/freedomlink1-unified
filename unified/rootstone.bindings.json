@@ -1,0 +1,7 @@
+{
+  "rootstone": {
+    "hardware_root": "Rootstone-I",
+    "identity_anchor": "freedomlink1-governance/lineage/anchors/rootstone_anchor.json",
+    "protocol_binding": "freedomlink1-protocol/contracts/rootstone/"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "deployment": {
+    "networks": {
+      "mainnet": "freedomlink1-protocol/manifest/mainnet.json",
+      "testnet": "freedomlink1-protocol/manifest/testnet.json",
+      "local": "freedomlink1-protocol/manifest/local.json"
+    },
+    "ceremony": "freedomlink1-protocol/ceremony/deployment_ceremony.md"
+  }
+}

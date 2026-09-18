@@ -1,0 +1,11 @@
+{
+  "governance": {
+    "lineage": "freedomlink1-governance/lineage/",
+    "seals": "freedomlink1-governance/lineage/seals/",
+    "anchors": "freedomlink1-governance/lineage/anchors/",
+    "ledger": "freedomlink1-governance/lineage/ledger/",
+    "corpus": "freedomlink1-governance/docs/governance/",
+    "sentinel": "freedomlink1-governance/sentinel/",
+    "continuity": "freedomlink1-governance/continuity/"
+  }
+}

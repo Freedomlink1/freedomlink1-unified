@@ -1,0 +1,11 @@
+{
+  "protocol": {
+    "contracts": "freedomlink1-protocol/contracts/",
+    "interfaces": "freedomlink1-protocol/interfaces/",
+    "deploy": "freedomlink1-protocol/deploy/",
+    "ci": "freedomlink1-protocol/ci/",
+    "docs": "freedomlink1-protocol/docs/",
+    "dashboard": "freedomlink1-protocol/dashboard/",
+    "analytics": "freedomlink1-protocol/analytics/"
+  }
+}

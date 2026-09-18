@@ -1,0 +1,11 @@
+{
+  "sovereign": {
+    "founder_key": "/c/Users/crazy/founder.key",
+    "epoch_signatures": {
+      "epoch_3": "founder_epoch3.sig",
+      "epoch_4": "founder_epoch4.sig"
+    },
+    "rootstone_identity": "rootstone.bindings.json",
+    "pptf_identity": "pptf.bindings.json"
+  }
+}
