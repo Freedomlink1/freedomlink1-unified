@@ -1,0 +1,46 @@
+{
+  "seal": {
+    "id": "editorial_subsystem_seal_epoch6",
+    "epoch": 6,
+    "type": "constitutional_layer_seal",
+    "artifact_group": "editorial_subsystem",
+    "description": "Sovereign seal binding the Editorial Subsystem to its Epoch 6 lineage anchor. This seal is unsigned and requires steward signature for activation.",
+    "lineage_anchor": "editorial_subsystem_epoch6",
+    "components": [
+      "docs/freedomlink1_institutional_style_guide.md",
+      "docs/freedomlink1_style_guide_enforcement_checklist.md",
+      "docs/style_guide_linting_ruleset.md",
+      "tools/style_guide_linter.ts",
+      "docs/style_guide_quick_reference.md",
+      "docs/document_creation_ceremony.md",
+      "docs/style_guide_lint_report_format.md",
+      "docs/codex/Codex_Editorial_Integration.md",
+      "docs/codex/explorer.md",
+      "docs/lineage/explorer.md"
+    ],
+    "boundaries": {
+      "authority_boundary": "Authority derives solely from approval evidence. Seal does not grant authority.",
+      "verification_boundary": "Verification limited to local artifacts. Seal does not validate runtime behavior.",
+      "hardware_trust": "Rootstone-I declared identity. Seal does not attest hardware.",
+      "economic_continuity": "Aligned with PPTF Treasury Governance; defines policy, not execution.",
+      "continuity_alignment": "Aligned with Epoch 6 lineage anchors."
+    },
+    "recording": {
+      "surfaces": [
+        "governance",
+        "continuity",
+        "verification",
+        "identity",
+        "hardware_trust",
+        "economic_continuity"
+      ],
+      "note": "Recording does not imply authority or verification."
+    },
+    "signature": {
+      "status": "unsigned",
+      "required": "steward_signature",
+      "method": "git_commit_signature",
+      "instructions": "Steward must sign via Git Bash using declared identity."
+    }
+  }
+}
